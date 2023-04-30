@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/DAO/BookDAOImpl.java=UTF-8
+encoding//src/main/java/com/admin/servlet/addBooks.java=UTF-8
+encoding//src/main/java/com/admin/servlet/deleteBook.java=UTF-8
+encoding//src/main/java/com/admin/servlet/editBook.java=UTF-8
+encoding//src/main/java/com/user/servlet/CartServlet.java=UTF-8
+encoding//src/main/java/com/user/servlet/EditProfileServlet.java=UTF-8
+encoding//src/main/java/com/user/servlet/LoginServlet.java=UTF-8
+encoding//src/main/java/com/user/servlet/LogoutServlet.java=UTF-8
+encoding//src/main/java/com/user/servlet/OrderServlet.java=UTF-8
+encoding//src/main/java/com/user/servlet/RegisterServlet.java=UTF-8
+encoding//src/main/java/com/user/servlet/RemoveBookServlet.java=UTF-8
+encoding//src/main/webapp/setting.jsp=UTF-8
